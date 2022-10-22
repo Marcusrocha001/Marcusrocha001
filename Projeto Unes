@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<title>UNES-Página principal</title>
+	</head>
+	<body background="imagens/fundo.png">
+	
+<table border="0" width="900" align="center">
+	<tr>
+		<td height="89"><img src="imagens/logo.png"></td>
+		<td> 
+			<a href="">Home</a>
+			<a href="quem-somos.html">Quem somos</a>
+			<a href="contato.html">Contato</a>
+</td>
+
+	</tr>
+	<tr>
+		<td colspan="2">
+		<img src="imagens/capa.png">
+		</td>
+	</tr>
+
+	<tr>
+		<td colspan="2">
+			<h2>Sobre a universidade</h2>
+			<p><strong>A universidade Unes </strong><em>tem em sua essência a inovação. Sempre alinhados às necessidades do mercado, fomos a primeira instituição de ensino a lançar um curso superior de Turismo, assim como os cursos de Aviação Civil, Design Digital, Estética, Gastronomia e Quiropraxia. Também fomos os primeiros a construir um SPA Escola e um centro de simulação na área de Saúde. Desde o lançamento da Educação a Distância, há mais de dez anos, utilizamos a tecnologia mais adequada para o estudo on-line, para que o aluno possa estudar quando e onde quiser.A metodologia de ensino que adotamos prepara os alunos para os desafios do mercado de trabalho, levando-os a experimentar e aplicar na prática os conhecimentos adquiridos em sala de aula, ao mesmo tempo em que os ensina a desenvolver uma visão crítica na busca de soluções para os desafios do dia-a-dia.É a soma de tudo isso, aliada à infraestrutura de padrão internacional, que garante o sucesso de nossos alunos! </em></p>
+					<p><em>Desde a fundação na década de 70, atuamos de maneira contundente para a evolução do ensino superior brasileiro. A AUniversidade Unes é reconhecida por criar profissões a partir de tendências de mercado, e somos destaque entre as melhores universidades do país. Unimos tradição e pioneirismo a serviço da educação!</em></p>
+					<p><em>A Universidade Unes destaca-se entre as melhores universidades do Brasil ao conquistar 141 estrelas no Guia do Estudante Abril 2015. Além disso, nossa infraestrutura de padrão internacional reforça o compromisso que temos com a formação de profissionais empreendedores e inovadores, cientes de seu papel na construção de uma sólida e promissora comunidade global.</em></p>
+
+
+		</td>
+
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<h4>Todos os direitos reservados</h4>
+
+		</td>
+	</tr>
+</table>
+	</body>
+	</html>
